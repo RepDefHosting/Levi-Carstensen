@@ -3,9 +3,9 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: Outside his professional life, Mr. Carstensen maintains an
+  active lifestyle by playing hockey. His other interests include football and
+  reading.
 published: true
 schemaType: WebPage
 header: Blog
