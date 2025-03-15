@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: Levi Carstensen
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -12,12 +12,15 @@ learnMoreButton:
 subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
-  src: /img/businesshero2.png
+  src: /img/RainDrop Hero Image.jpg
   alt: Hero Image for home page
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: Levi Carstensen has established himself as a successful sales
+  professional in the logistics and transportation industry. A senior territory
+  sales representative with Priority1 in Minneapolis, Levi Carstensen ranked
+  24th out of over 450 sales representatives nationwide in total gross profit
+  for 2023.
 published: true
 profileButton:
   link: /profile
@@ -32,4 +35,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
+Levi Carstensen has established himself as a successful sales professional in the logistics and transportation industry. A senior territory sales representative with Priority1 in Minneapolis, Levi Carstensen ranked 24th out of over 450 sales representatives nationwide in total gross profit for 2023. His track record includes managing a diverse portfolio exceeding $12.6 million in revenue and generating over $3 million in gross profit through strategic consulting and innovative product offerings.
